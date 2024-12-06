@@ -2,24 +2,6 @@
 
 Intro goes here
 
-## Stats
-
-Every character has these stats.
-
-### Health
-
-### Instinct
-
-### Agility
-
-### Strength
-
-### Durability
-
-### Charisma
-
-### Sorcery
-
 ## Skills
 
 A skill is your ability to do a specific action. Every skill has a primary stat,
@@ -74,14 +56,3 @@ value is often used for bonuses.
 
 A target may forgo the option to contest a roll under certain circumstances. In
 this case, they're treated as having rolled a zero.
-
-## Energy and Satiation
-
-Every character has two important resources that determine what they can do:
-energy and satiation. Energy is consumed for almost every action a character can
-take. All characters recover 10 energy per turn; if they have any satiation, up
-to 10 will be consumed to restore an equal amount of energy. In most cases,
-characters will recover 20 energy per turn.
-
-If a character's satiation exceeds their maximum, an additional 10 will be
-converted to energy, for a total of 30 energy recovered that turn.
