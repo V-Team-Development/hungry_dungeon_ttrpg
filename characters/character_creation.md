@@ -20,9 +20,9 @@ one organ which can freely choose who and what to digest.
 
 ### Starting Perks and Abilities
 
-Usually, unlocking a perk or ability requires you to spend a skill point.
-However, some races have perks or abilities unlocked for free. For example, a
-Lamia starts with the Crush ability, and Cowgirls all get the Milky perk.
+Usually, unlocking a talent requires you to spend a talent point.
+However, some races have talents unlocked for free. For example, a
+Lamia starts with the Crush talent, and Cowgirls all get the Milky talent.
 
 ### Racial Features
 
@@ -34,7 +34,7 @@ their abilities.
 ## Assigning Points
 
 Once you've picked a race, you may assign that race's starting stat points and
-skill points as you choose. Try to keep your playstyle in mind - if you intend
+talent points as you choose. Try to keep your playstyle in mind - if you intend
 to do a lot of vore, you'll want strength and durability, as well as
 vore-related abilities. A magic-focused build will want sorcery and instinct,
 and a harrier will work better with lots of agility. Some skills have

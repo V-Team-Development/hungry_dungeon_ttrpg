@@ -1,8 +1,5 @@
 # Actions
 
-Every character has a set of actions it can take. Some actions require a perk,
-skill unlock, race, or other condition.
-
 ## Destablizing
 
 Many actions are marked as destablizing (name pending). Regardless of what

@@ -41,6 +41,6 @@ their stomach (or other organ).
 
 To play a glutton, pick a race with bonuses to vore, then prioritize strength
 and durability, and buy vore-related skills. You also might want to save a few
-skill points for organ capacity upgrades.
+talent points for organ capacity upgrades.
 
 ## The Mage
