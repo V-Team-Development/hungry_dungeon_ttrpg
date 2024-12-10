@@ -44,7 +44,8 @@ health damage is reduced by the defender's endure roll.
 - Destablizing
 
 Attempts to devour prey. Make a devour roll contested by the target's dodge. On
-a success against a vulnerable target, begin devouring the target.
+a success against a vulnerable target, begin devouring the target, making a
+single swallow.
 
 ### Swallow
 
