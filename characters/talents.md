@@ -1,7 +1,8 @@
 # Talents
 
 By spending talent points, earned each level, you can unlock or upgrade talents,
-adding new options to your character.
+adding new options to your character. A talent can be upgraded if it has an "on
+upgrade" line.
 
 ## Satiation Talents
 
@@ -19,6 +20,10 @@ a talent point, but does replace your previous satiation talent.
 Speed up healing of allies in your womb.
 
 Active: as a quick action, your passive womb healing runs again this turn.
+
+Passive: womb healing increases by 10%, while satiation cost is unchanged.
+
+On Upgrade: healing increases by an additional 10%.
 
 ### Aetherbolt
 
@@ -76,6 +81,8 @@ Magically increases your carry capacity.
 Active: as an action for 30 energy, cast a featherweight effect on a target of
 your choosing. This target gains 20 carry weight multiplied by your spellcasting
 modifier for 10 turns.
+
+On Upgrade: Increase carry weight per modifier (base is 20) by 5.
 
 ### Futa
 
