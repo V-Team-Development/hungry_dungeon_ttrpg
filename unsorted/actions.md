@@ -1,5 +1,13 @@
 # Actions
 
+## Range
+
+Actions all have a range, which a target must be within to use. Unless otherwise
+specified, actions have a range of 1, requiring you to be directly next to the
+target. Actions may also have a minimum range, requiring the target to be no
+closer than that - for those, range will be shown as two numbers. An action with
+a minimum range of 1 and maximum range of 4 will be shown as 1-4.
+
 ## Destablizing
 
 Many actions are marked as destablizing (name pending). Regardless of what
