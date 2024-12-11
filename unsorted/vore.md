@@ -1,5 +1,11 @@
 # Vore
 
+This is a vore game, first and foremost - obviously we spent a lot of time on
+the vore mechanics. You can swallow enemies to finish them off, or just to get
+them out of the way; swallow allies to protect them, or digest them to empower
+yourself; let yourself be swallowed to attack an enemy from the inside, or to
+rescue an ally.
+
 ## Digestion
 
 While you have prey inside you, once per turn deal damage based on rampup (see

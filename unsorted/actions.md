@@ -39,13 +39,16 @@ anything else. Roll strike contested by the target's dodge. On a success, do
 health damage equal to your strike modifier plus your degree of success. This
 health damage is reduced by the defender's endure roll.
 
+If attacking an organ you are inside of, the target uses their body roll to
+contest.
+
 ### Devour
 
 - Destablizing
 
 Attempts to devour prey. Make a devour roll contested by the target's dodge. On
 a success against a vulnerable target, begin devouring the target, making a
-single swallow.
+single swallow as below.
 
 ### Swallow
 
@@ -63,14 +66,6 @@ Move prey from one of your organs, either to another connected organ or outside
 of you. Make a body roll contested by your target's body roll. On a success,
 move your prey by an amount equal to the opening size of the orifice the prey is
 being moved from. If your roll exceeds twice the prey's roll, move twice.
-
-### Struggle
-
-- Destablizing
-
-Make a strike roll contested by your pred's body roll. On a success, do health
-damage equal to your strike modifier plus your degree of success. This health
-damage is reduced by the defender's endure roll.
 
 ### Escape
 
