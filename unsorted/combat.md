@@ -4,6 +4,16 @@ Combat takes place over a series of rounds, each of which is anywhere from 30 to
 90 seconds. Within each round, players may take their turns in any order, while
 NPCs usually act at the end of a round.
 
+## Order of Events
+
+Events take place in the following order every round:
+
+1. Energy and Willpower recover for all characters
+2. Players take actions
+3. NPCs take actions
+4. Status effects per-turn effect activates
+5. Digestion occurs
+
 ## Willpower
 
 Willpower represents the actions a character can take. Every character recovers
