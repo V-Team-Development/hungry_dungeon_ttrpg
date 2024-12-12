@@ -45,3 +45,14 @@ When an organ is attacked from the inside, the pred will take health damage and
 the organ will take indigestion damage. Once indigestion reaches its maximum
 value (calculation omitted here), the organ is weakened, allowing prey the
 ability to escape.
+
+## Carry Weight
+
+Every character has a carry weight, which is - as the name suggests - how much
+they can carry before penalties kick in. To calculate your carry weight,
+multiply your strength stat by 10, then add in racial bonuses.
+
+If the weight of all the stuff you're carrying - either inside or outside of
+yourself - exceeds this carry weight, your speed drops by 1 and your dodge
+modifier drops by 2. If the total is double your carry weight, those penalties
+are doubled, and this continues until both of these are zero.
