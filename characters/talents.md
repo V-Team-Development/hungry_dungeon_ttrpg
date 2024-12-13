@@ -78,7 +78,7 @@ may also unlock this if easter is observed.
 
 Give your energy to an ally.
 
-Quick Action (20): Give 20 to another character.
+Quick Action (20): Give 20 energy to another character.
 
 ### Featherweight
 
