@@ -1,8 +1,11 @@
 # Character Creation
 
+If you're not sure what you want to do, check out the section on
+[playstyles](playstyles.md#playstyles) to get some ideas.
+
 ## Choosing a Race
 
-To start, pick a race to play as.
+To start, [pick a race to play as](races.md#races).
 
 Every character starts off with an 8 in all stats, though some races have
 bonuses to specific stats. Every race also starts with some number of stat
@@ -10,6 +13,12 @@ points, which can be freely allocated to boost any stat by 1. Races with more
 powerful inherent abilities (see below) have fewer starting stat points.
 
 Below is list of the features that might influence your choice of race.
+
+### Stats
+
+The stats of a character decide how good they are at almost everything.
+[Read about what they are](#stats) before making your choice, but remember that
+you can increase weak stats with your starting points.
 
 ### Organs
 
@@ -20,9 +29,9 @@ one organ which can freely choose who and what to digest.
 
 ### Starting Perks and Abilities
 
-Usually, unlocking a talent requires you to spend a talent point.
-However, some races have talents unlocked for free. For example, a
-Lamia starts with the Crush talent, and Cowgirls all get the Milky talent.
+Usually, unlocking a talent requires you to spend a talent point. However, some
+races have talents unlocked for free. For example, a Lamia starts with the Crush
+talent, and Cowgirls all get the Milky talent.
 
 ### Racial Features
 
@@ -41,3 +50,9 @@ and a harrier will work better with lots of agility. Some skills have
 requirements to unlock them, such as a character level or stat level, so you
 might want to save a few points if there's something specific you have your eye
 on.
+
+## Looking Forward
+
+Once you've been playing for a while, you'll earn experience, and eventually
+level up. Check the [progression guide](progression.md#progression) to decide on
+what to do.
