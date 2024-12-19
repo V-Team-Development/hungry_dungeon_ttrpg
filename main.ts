@@ -34,6 +34,7 @@ async function formatPage(req: Request) {
       </style>
     </head>
     <body>
+      <header><a class="anchor" href="/">Table of Contents</a></header>
       <main data-color-mode="light" data-light-theme="light" data-dark-theme="dark" class="markdown-body">
         ${body}
       </main>
