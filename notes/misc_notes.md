@@ -17,3 +17,9 @@ included aside from extreme situations, such as breasts bigger than body size.
 Up to your carry weight (usually around 2x size) no penalty, then every
 multiplier over that gives some noticable penalty. I'll have it as a status
 effect to make it obvious what's happening.
+
+A "piercing" system to reduce damage taken by people inside you?
+
+Have some internal actions use their own willpower pool, so vore lets you
+multitask? This would make vore more attractive as an option early in a fight,
+since it increases the amount of actions you can take.

@@ -1,10 +1,18 @@
 # Vore
 
-This is a vore game, first and foremost - obviously we spent a lot of time on
-the vore mechanics. You can swallow enemies to finish them off, or just to get
-them out of the way; swallow allies to protect them, or digest them to empower
-yourself; let yourself be swallowed to attack an enemy from the inside, or to
-rescue an ally.
+Vore is a central mechanic to the game, adding "inside" and "outside" as a
+dimension. A character inside of another can't be directly interacted with using
+most normal actions, but is now vulnerable to actions taken by the pred's body.
+Many of these actions require little or no willpower, allowing a pred to do two
+things at once; however, this also means that the prey has direct access to the
+pred's body, which can't dodge or deflect attacks from inside. In some cases,
+letting yourself get eaten is an advantage, as it makes it hard for anyone
+besides the pred to attack you and makes sure you can land attacks on your prey.
+
+Eating allies lets you protect them from harm and carry them around, and allows
+some support abilities to be used on them. This also allows them to share your
+movement, so a flying character can bring non-flying characters into the air
+with them.
 
 ## Digestion
 

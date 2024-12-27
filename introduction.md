@@ -1,7 +1,17 @@
 # Introduction
 
-Welcome to Hungry Dungeon! This guidebook aims to introduce you to the mechanics
-of the game in a way accessable to newcomers.
+Hungry Dungeon is an RPG game where vore is a core mechanic, aiming to be
+different from the many games out there where vore is just a victory or game
+over condition. Eating enemies, being eaten, escaping, and being escaped from
+are all critical to the gameplay. There are multiple forms of vore, as well as
+vore-adjacent fetishes, though few of these are required. Options exist to
+disable some mechanics, such as preventing your character from being eaten, but
+you will still be exposed to them. If you have a low tolerance for things you
+aren't into, this game may not be suited for you.
+
+This version of Hungry Dungeon is not intended to be played purely on pen and
+paper - some mechanics have complicated math meant for a computer, and trying to
+do them without one is difficult.
 
 # Table of Contents
 
