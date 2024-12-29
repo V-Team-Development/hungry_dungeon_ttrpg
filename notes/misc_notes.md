@@ -28,8 +28,12 @@ their turns and everyone has fast mode enabled.
 
 If only one player exists, the round timer doesn't tick.
 
-Food absorption,
+Food absorption, pregnancy progression, and other long-term things happen on a
+global timer, not accounting for differences in the round timer. Outside of
+combat, the round timer still exists, but is much faster.
 
 Allow egg layers to lay respawn eggs, which they can respawn inside of for free.
 Might also allow players to gestate clones of themselves, which they can occupy
 to recover.
+
+Phoenix harpy that burns itself and makes an egg in the ashes?
