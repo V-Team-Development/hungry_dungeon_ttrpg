@@ -20,6 +20,16 @@ effect to make it obvious what's happening.
 
 A "piercing" system to reduce damage taken by people inside you?
 
-Have some internal actions use their own willpower pool, so vore lets you
-multitask? This would make vore more attractive as an option early in a fight,
-since it increases the amount of actions you can take.
+"Sneaky" attacks that alert enemies but don't raise aggro? Or it only raises
+aggro if there's no other players nearby.
+
+Add a "fast mode" setting that instantly ends a round if all players have taken
+their turns and everyone has fast mode enabled.
+
+If only one player exists, the round timer doesn't tick.
+
+Food absorption,
+
+Allow egg layers to lay respawn eggs, which they can respawn inside of for free.
+Might also allow players to gestate clones of themselves, which they can occupy
+to recover.

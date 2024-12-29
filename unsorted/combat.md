@@ -8,20 +8,17 @@ NPCs usually act at the end of a round.
 
 Events take place in the following order every round:
 
-1. Energy and Willpower recover for all characters
+1. Energy and Actions recover for all characters
 2. Players take actions
 3. NPCs take actions
 4. Status effects per-turn effect activates
 5. Digestion occurs
 
-## Willpower
+## Actions
 
-Willpower represents the actions a character can take. Every character recovers
-15 willpower per round, up to a maximum of 30; this allows actions to be saved
-across turns, enabling bursts of activity at the cost of doing nothing the
-previous turn. Most actions consume willpower, and fall into three categories:
-full, quick, and free. A full action consumes 10 willpower, a quick action
-consumes 5, and a free action consumes none.
+Once every round, a character may perform one action and one quick action, or
+two quick actions. They may also perform one internal action and as many free
+actions as they choose.
 
 ## Energy
 

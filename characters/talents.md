@@ -16,8 +16,9 @@ a talent point, but does replace your previous satiation talent.
 ## Active and Passive
 
 A talent may add a passive effect, which is always active and does not require
-input, or enable an action. The type of action (Action, Quick Action, or Free
-Action) is specified, and the energy cost is listed in parentheses.
+input, or enable an action. The type of action (Action, Quick Action, Internal
+Action, or Free Action) is specified, and the energy cost is listed in
+parentheses.
 
 ## List of Talents
 
@@ -41,7 +42,7 @@ Action: {description}
 
 Channel your magic to increase the power of your organs.
 
-Quick Action (20): for the next 5 turns, use your sorcery instead of durability
+Internal Action (20): for the next 5 turns, use your sorcery instead of durability
 when determining digestion damage.
 
 Requirements: 14 sorcery.
@@ -59,7 +60,7 @@ Requirements: be size 20 or smaller.
 
 Squeeze your muscles tight, damaging everything inside you.
 
-Action (20): Squeeze one of your organs tight, dealing your strength modifier as
+Internal Action (20): Squeeze one of your organs tight, dealing your strength modifier as
 blunt damage to anything inside.
 
 ### Egg Layer
