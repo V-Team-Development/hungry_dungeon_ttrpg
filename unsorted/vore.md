@@ -38,14 +38,22 @@ inside them, their damage decreases by one per turn until it reaches zero.
 
 Regular food items have digestion hardness rather than health. Digestion damage
 adds buildup, just like with living prey, and when buildup exceeds digestion
-hardness the food item turns into digested food.
+hardness the food item is digested.
 
 ## Absorption
 
-Every turn, digested food is absorbed based on digestion damage. When food is
-absorbed, what happens varies depending on the type of organ, but usually the
+Every turn, digested food is absorbed based on your digestion damage. When food
+is absorbed, what happens varies depending on the type of organ, but usually the
 pred gains satiation according to the nutrients in the food. The formulas for
 calculating this are complex, and will not be detailed here.
+
+Not every form of food is the same - some can be absorbed more efficiently than
+others. Plants are harder to digest than meat, and processed foods like milk are
+even better.
+
+Digestion efficiency also varies depending on perks, including race. A Cowgirl's
+slow stomach can absorb more from the same amount of food than the
+high-metabolism catgirl.
 
 ## Indigestion
 

@@ -37,3 +37,6 @@ Might also allow players to gestate clones of themselves, which they can occupy
 to recover.
 
 Phoenix harpy that burns itself and makes an egg in the ashes?
+
+Skill bonus should be applied after a roll, rather than before, otherwise it's
+much less useful for rolls compared to the modifier.

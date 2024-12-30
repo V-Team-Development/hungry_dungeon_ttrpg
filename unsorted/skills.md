@@ -7,9 +7,13 @@ well as your skill bonus.
 
 ## Rolls
 
-When asked for a roll, take as many D6 dice as is specified - usually, it's your
-skill level - and roll them. Every 5 or 6 is a success, and the total number of
-successes is the result of your roll.
+When asked for a roll, take as many D6 dice as is specified and roll them. Every
+5 or 6 is a success, and the total number of successes is the result of your
+roll. After this, add the skill bonus, if it exists.
+
+To roll for a skill, add together your skill levels in the primary and secondary
+stats for that skill. If the skill has no secondary stat, use the primary stat
+twice.
 
 In some cases, you may be given the "critical dice" modifier. When this is
 active, rolling a 6 allows you to re-roll that die, adding another success to
@@ -20,7 +24,7 @@ The "lucky dice" modifier is similar, but in reverse - if you roll a 1, you may
 re-roll that die, continuing to re-roll it until you do not roll a 1.
 
 Both of these mechanics may be referred to by other names, such as "critical
-hit", but "critical" and "lucky" will always be present.
+hit".
 
 ## Skill Modifier
 
@@ -34,7 +38,7 @@ poise per turn, before other effects come into play.
 ## Skill Bonus
 
 Your skill bonus represents additional mastery of the skill. Each bonus point
-adds one die to skill rolls and one point to your skill modifier.
+adds one point to your skill modifier or to the final result of a skill roll.
 
 ## Above, but in Fewer Words
 
