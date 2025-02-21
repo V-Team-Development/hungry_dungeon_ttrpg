@@ -9,9 +9,8 @@ disable some mechanics, such as preventing your character from being eaten, but
 you will still be exposed to them. If you have a low tolerance for things you
 aren't into, this game may not be suited for you.
 
-This version of Hungry Dungeon is not intended to be played purely on pen and
-paper - some mechanics have complicated math meant for a computer, and trying to
-do them without one is difficult.
+This document serves as both player guide and design document - some of the
+features or abilities here may not match the live version of the game yet.
 
 # Table of Contents
 

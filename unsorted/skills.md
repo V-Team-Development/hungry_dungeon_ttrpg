@@ -96,3 +96,10 @@ Controls your own body.
 
 - Primary stat: Strength
 - Secondary stat: Durability
+
+### Spellcasting
+
+Use magical abilities.
+
+- Primary stat: Sorcery
+- Secondary stat: Instinct

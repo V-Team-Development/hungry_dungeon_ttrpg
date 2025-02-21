@@ -38,39 +38,9 @@ Both of these apply to weakened organs.
 
 The following can be performed by all characters unless otherwise specified.
 
-### Attack
+- [Attack](abilities/attack.md#attack)
+- [Devour](abilities/devour.md#devour)
 
-- Action
-- Destablizing
-
-A simple melee attack with whatever weapon you choose - fists, feet, sword, or
-anything else. Roll strike contested by the target's dodge. On a success, do
-health damage equal to your strike modifier plus your degree of success. This
-health damage is reduced by the defender's endure roll.
-
-If attacking an organ you are inside of, the target uses their body roll to
-contest.
-
-### Devour
-
-- Action
-- Destablizing
-
-Attempts to devour prey. Make a devour roll contested by the target's dodge. On
-a success against a vulnerable target, begin devouring the target, making a
-single swallow as below.
-
-### Swallow
-
-- Action
-
-While devouring a target, make a body roll, contested by your prey's body roll.
-On a success, swallow your prey by an amount equal to the opening size of the
-orifice the prey is being swallowed by. If your roll exceeds twice the prey's
-roll, swallow twice.
-
-You may also reverse this, spitting out partially-swallowed prey. Enemies will
-usually not contest this roll.
 
 ### Move Prey
 
