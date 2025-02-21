@@ -79,7 +79,7 @@ Apply force to something, such as hitting a target.
 
 ### Endure
 
-Withstands physical harm.
+Withstands physical harm. When resisting damage, do not roll durability twice.
 
 - Primary stat: Durability
 
