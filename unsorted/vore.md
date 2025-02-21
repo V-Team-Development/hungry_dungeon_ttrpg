@@ -71,4 +71,5 @@ multiply your strength stat by 10, then add in racial bonuses.
 If the weight of all the stuff you're carrying - either inside or outside of
 yourself - exceeds this carry weight, your speed drops by 1 and your dodge
 modifier drops by 2. If the total is double your carry weight, those penalties
-are doubled, and this continues until both of these are zero.
+are doubled, and this continues until both of these are zero and you become
+immobile.
