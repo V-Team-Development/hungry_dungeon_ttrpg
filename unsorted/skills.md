@@ -83,9 +83,9 @@ Withstands physical harm.
 
 - Primary stat: Durability
 
-### Devour
+### Grapple
 
-Gets prey inside you.
+Gets prey inside you or someone else, or otherwise move them around.
 
 - Primary stat: Strength
 - Secondary stat: Agility

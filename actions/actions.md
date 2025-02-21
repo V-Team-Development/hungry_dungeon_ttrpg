@@ -1,5 +1,9 @@
 # Actions
 
+Once every round, a character may perform one action and one quick action, or
+two quick actions. They may also perform one internal action and any number of
+free actions.
+
 ## Destablizing
 
 Many actions are marked as destablizing (name pending). Regardless of what

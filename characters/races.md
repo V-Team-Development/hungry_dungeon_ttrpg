@@ -8,3 +8,5 @@ A good all-rounder, humans have no special features but high versitility.
 - Talent points: 2
 
 ## Slimegirl
+
+## Centaur
