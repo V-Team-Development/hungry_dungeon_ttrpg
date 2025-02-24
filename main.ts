@@ -15,7 +15,12 @@ async function formatPage(req: Request) {
     path = "./introduction.md";
   }
 
+  if (!path.endsWith(".md")) {
+    throw new Error(`Client attempted to read non-markdown file at ${path}`);
+  }
+
   const markdown = await Deno.readTextFile(path);
+
   const body = render(markdown, {
     baseUrl: url.host,
   });
