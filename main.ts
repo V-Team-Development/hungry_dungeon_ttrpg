@@ -49,7 +49,10 @@ Deno.serve(async (req) => {
       status: 404,
     });
   }
-  const body = await formatPage(req);
+  const body = await formatPage(req).catch((e) => {
+    console.error(e);
+    return "Internal server error";
+  });
   return new Response(body, {
     headers: {
       "content-type": "text/html; charset=utf-8",
