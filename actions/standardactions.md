@@ -1,7 +1,7 @@
 # Action Types
 
-Many actions are a variation on a standard action type. Below are the types used
-by two or more actions:
+Many actions are based on a standard action type. Below are the types used by
+two or more actions:
 
 ## Targeted Attack
 

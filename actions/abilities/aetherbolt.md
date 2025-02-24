@@ -2,6 +2,7 @@
 
 - Action
 - Destablizing
+- Focused
 - Cost: 15 energy
 
 A lance of magical energy. A
