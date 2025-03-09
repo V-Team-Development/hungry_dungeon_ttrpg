@@ -9,15 +9,14 @@ disable some mechanics, such as preventing your character from being eaten, but
 you will still be exposed to them. If you have a low tolerance for things you
 aren't into, this game may not be suited for you.
 
-This version of Hungry Dungeon is not intended to be played purely on pen and
-paper - some mechanics have complicated math meant for a computer, and trying to
-do them without one is difficult.
+This document serves as both player guide and design document - some of the
+features or abilities here may not match the live version of the game yet.
 
 # Table of Contents
 
 1. [Creating a Character](characters/character_creation.md#character-creation).
 2. [Skills](unsorted/skills.md#skills)
-3. [Actions](unsorted/actions.md#actions)
+3. [Actions](actions/actions.md#actions)
 4. [Combat](unsorted/combat.md#combat)
 5. [Vore](unsorted/vore.md#vore)
 6. [Death](unsorted/death.md#death)

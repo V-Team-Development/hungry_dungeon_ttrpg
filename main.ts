@@ -15,7 +15,12 @@ async function formatPage(req: Request) {
     path = "./introduction.md";
   }
 
+  if (!path.endsWith(".md")) {
+    throw new Error(`Client attempted to read non-markdown file at ${path}`);
+  }
+
   const markdown = await Deno.readTextFile(path);
+
   const body = render(markdown, {
     baseUrl: url.host,
   });
@@ -49,7 +54,10 @@ Deno.serve(async (req) => {
       status: 404,
     });
   }
-  const body = await formatPage(req);
+  const body = await formatPage(req).catch((e) => {
+    console.error(e);
+    return "Internal server error";
+  });
   return new Response(body, {
     headers: {
       "content-type": "text/html; charset=utf-8",

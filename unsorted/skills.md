@@ -79,13 +79,13 @@ Apply force to something, such as hitting a target.
 
 ### Endure
 
-Withstands physical harm.
+Withstands physical harm. When resisting damage, do not roll durability twice.
 
 - Primary stat: Durability
 
-### Devour
+### Grapple
 
-Gets prey inside you.
+Gets prey inside you or someone else, or otherwise move them around.
 
 - Primary stat: Strength
 - Secondary stat: Agility
@@ -96,3 +96,10 @@ Controls your own body.
 
 - Primary stat: Strength
 - Secondary stat: Durability
+
+### Spellcasting
+
+Use magical abilities.
+
+- Primary stat: Sorcery
+- Secondary stat: Instinct

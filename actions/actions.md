@@ -1,0 +1,47 @@
+# Actions
+
+Every action has a type: Action, Quick Action, Free Action, or Internal Action.
+
+Once every round, a character may perform one action and one quick action, or
+two quick actions. They may also perform one internal action and any number of
+free actions.
+
+An action may also have tags applied to it. Below are the definitions of these
+tags - if an
+
+## Destablizing
+
+When using a destablizing action against a target, on a failure, do poise damage
+equal to your roll, reduced by the defender's degree of success. On a success,
+do poise damage equal to your roll plus your degree of success. This effect
+happens before and in addition to the failure or success results of the action.
+If this poise damage causes a target to be staggered, actions which require the
+target to be vulnerable are able to succeed, even if they were not staggered
+before the action.
+
+If the target of an acton is an organ, indigestion damage is dealt rather than
+poise damage.
+
+## Focused
+
+A focused action cannot be used while vulnerable.
+
+# Vulnerability
+
+Some actions require a vulnerable target. A target is considered vulnerable if
+they suffer from any status effect that specifies vulnerability, including being
+incapacitated, asleep, staggered, or stunned. For an organ, this requires being
+weakened from indigestion.
+
+# Critical and Lucky rolls
+
+Unless otherwise specified, a contested roll against a vulnerable target is a
+critical roll. When defending against a vulnerable target, your roll is lucky.
+Both of these apply to weakened organs.
+
+# Common actions
+
+The following can be performed by all characters unless otherwise specified.
+
+- [Attack](abilities/attack.md#attack)
+- [Devour](abilities/devour.md#devour)
