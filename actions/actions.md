@@ -30,14 +30,17 @@ A focused action cannot be used while vulnerable.
 
 Some actions require a vulnerable target. A target is considered vulnerable if
 they suffer from any status effect that specifies vulnerability, including being
-incapacitated, asleep, staggered, or stunned. For an organ, this requires being
-weakened from indigestion.
+fainted, asleep, staggered, or stunned. For an organ, this requires being upset,
+or if the organ's owner is fainted.
 
-# Critical and Lucky rolls
+If an action is Destablizing and also requires Vulnerability, the Vulnerability
+happens second; for example, if a devour attempt staggers a target, they can be
+eaten even if they were not staggered before.
+
+# Critical hits
 
 Unless otherwise specified, a contested roll against a vulnerable target is a
-critical roll. When defending against a vulnerable target, your roll is lucky.
-Both of these apply to weakened organs.
+critical roll.
 
 # Common actions
 
