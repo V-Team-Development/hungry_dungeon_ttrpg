@@ -59,5 +59,5 @@ high-metabolism catgirl.
 
 When an organ is attacked from the inside, the pred will take health damage and
 the organ will take indigestion damage. Once indigestion reaches its maximum
-value (calculation omitted here), the organ is weakened, allowing prey the
-ability to escape.
+value (calculation omitted here), the organ is upset, allowing prey the ability
+to escape.
