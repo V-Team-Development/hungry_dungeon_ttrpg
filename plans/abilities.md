@@ -21,8 +21,6 @@
 - teleport your prey inside someone else
 - Distract ability, lower the instinct of a pred you're inside of
 - Brace, big durability boost for 1 turn but high will cost
-- Repeatedly attack the same enemy, with extra damage on each subsequent hit.
-  Keep it for canines/beastial races
 - Perk that lets you use a burp attack directly after devouring someone with
   your stomach. Deals only poise damage?
 - Venom bite that lowers some stat (strength?) and/or does DOT. Exclusive to
@@ -30,14 +28,8 @@
 - Voodoo doll thing where you tie one actor to another, and any effects dealt to
   the first (including digestion) apply to the second
 - Some other kind of belly rub that speeds up digestion somehow
-- Sonic attacks that only deal poise damage
 - Deal damage to an organ, increasing indigestion
-- Attack an enemy through an organ (also deals damage to pred, lowers poise for
-  both)
 - Leech satiation from actors in your womb
-
-Compacted Consumption: food liquids take up less space than they should inside
-you (but still weight the same amount)
 
 Doubled Digestion: lend an ally the strength of your belly, adding your own
 digestion damage to theirs.
